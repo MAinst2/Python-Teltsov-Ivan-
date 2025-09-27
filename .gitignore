@@ -1,0 +1,14 @@
+# venv / кеши / ОС
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# VS Code (оставь, если не хочешь коммитить настройки)
+.vscode/
+
+# временные/выходные файлы
+*.png
+log_sanitized.txt
+excellent_students.txt
